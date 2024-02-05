@@ -1,0 +1,6 @@
+C_log.txt
+S_log.txt
+*.lst
+*.sym
+huc_example.s
+*.zip
